@@ -13,9 +13,6 @@ Thanks for checking out this front-end coding challenge.
 # Destop Design
 ![Design preview for the Single price grid component coding challenge_DESKTOP](./design/desktop-preview.jpg)
 
-# Mobile Design
-![Design preview for the Single price grid component coding challenge_MOBILE](./design/mobile-design.jpg)
-
 # Active Preview 
 ![Active_states for the Single price grid component coding challenge](./design/active-states.jpg)
 
